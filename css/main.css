@@ -2084,7 +2084,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #41ffff;
+  background: #09ff94;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2384,9 +2384,6 @@ pre .javascript .function {
     -o-transform: scale(1.1);
     transform: scale(1.1);
   }
-}
-.fa {
-  font-family: FontAwesome !important;
 }
 .local-search-pop-overlay {
   position: fixed;
